@@ -1,7 +1,6 @@
 Hello!
 
-I'm Eli, a data analyst and storyteller.  
-He not busy born is busy dying.
+I'm Eli, an aspiring data analyst and storyteller.
 
 **10 June 2025: Capstone Project Uploaded**
 - My first project involves building a predictive model that can curate a dynamic playlist which changes according to the weather.
