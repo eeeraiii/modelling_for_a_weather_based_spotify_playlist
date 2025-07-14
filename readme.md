@@ -6,7 +6,7 @@ Hello! This serves as my capstone project for General Assembly's Data Analytics 
 ### 🎯 Project Aims
 The project aims to address the following problems:<br/>
 
-a) To provide a solution for Spotify users who want to listen to music suitable for that day's weather (there are multiple studies that have proven that people's music listening habits are affected by weather conditions to some extent).<br/>
+a) To provide a solution for Spotify users who want to listen to music suitable for that day's weather. There are multiple studies - such as [this paper](https://royalsocietypublishing.org/doi/10.1098/rsos.221443) - this that have proven that people's music listening habits are affected by weather conditions to some extent.<br/>
 b) To provide Spotify with a novel new marketing idea - even if short-term - to boost user engagement in an increasingly competitive music streaming market in Asia.
 
 ### 🇯🇵 Why Tokyo? (And Why Was a Portion of the Project Dedicated to Singapore's Context?)
