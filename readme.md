@@ -23,7 +23,7 @@ b) Singapore also does not experience a temperate climate marked by 4 distinct s
 ### 🙋‍♂️ Will the Model Recommend a Specific Song Per Day, Based on That Day's Weather?
 **No.** This is because I found this approach too limiting to cater to the variety of ways people may change their music listening habits according to the weather. 
 
-For example, on a cold and rainy winter day, some people may want to listen to slower, more mellow music to match the similarly downcast weather. However, others may want to listen to more upbeat, energetic music to maintain their focus throughout the working day under the same conditions
+For example, on a cold and rainy winter day, some people may want to listen to slower, more mellow music to match the similarly downcast weather. However, others may want to listen to more upbeat, energetic music to maintain their focus throughout the working day under the same conditions.
 
 ### 🤔 So What will the Model Recommend?
 Instead of recommending a single song per day, I will make the model curate a whole playlist based on each day's weather.
