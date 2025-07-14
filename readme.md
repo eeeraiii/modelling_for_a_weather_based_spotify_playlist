@@ -1,5 +1,5 @@
 # 🎧 Listening to the Weather: Modelling for a Weather-Based Spotify Playlist
-## 🌦 In this project, I built a model that can curate a Spotify playlist based on the day's weather. The model uses weather data and the daily Top 50 songs on Spotify in Tokyo and Singapore between 18 October 2023 and 30 April 2025.
+## 🌦 In this project, I built a model that can curate a Spotify playlist based on the day's weather. The model uses daily data on weather and the Top 50 songs on Spotify in Tokyo and Singapore between 18 October 2023 and 30 April 2025.
 
 Hello! This serves as my capstone project for General Assembly's Data Analytics Bootcamp. 
 
